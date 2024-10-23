@@ -1,0 +1,16 @@
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/complex.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/math.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/window.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/mandelbrot.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/julia.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/mandelbrotexec.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/juliaexec.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/edit_cache.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/rebuild_cache.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/complex_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/math_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/window_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/mandelbrot_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/julia_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/mandelbrotexec_autogen.dir
+/home/Petrign/Проги/CPP/Fraktals/build-dir/CMakeFiles/juliaexec_autogen.dir

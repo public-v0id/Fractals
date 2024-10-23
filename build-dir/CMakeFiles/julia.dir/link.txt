@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjulia.a CMakeFiles/julia.dir/julia_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libjulia.a
